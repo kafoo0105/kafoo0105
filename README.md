@@ -1,16 +1,17 @@
-## Hi there 👋
+<div style="width: 854px; text-align: center;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<!--
-**kafoo0105/kafoo0105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafoo0105" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kafoo0105" />
 
-Here are some ideas to get you started:
+  <hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>My Git Animals!</h2>
+
+  <div style="width: 100%; display: flex;">
+    <img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="50%" height="120" />
+    <img src="https://render.gitanimals.org/farms/kafoo0105" width="40%" />
+  </div>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+</div>
