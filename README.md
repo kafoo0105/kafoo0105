@@ -1,6 +1,4 @@
-<div style="width: 854px; align: center;">
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
   <h3 align="center">🛠️ Tech Stack</h3>
   <div align="center">
@@ -24,8 +22,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /></a>
   <br>
-  <img
-    src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   </div>
@@ -47,10 +44,9 @@
   <hr>
 
   <div style="width: 100%; display: flex;">
-    <img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="60%" height="120" />
+    <img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="50%" height="120" />
     <img src="https://render.gitanimals.org/farms/kafoo0105" width="40%" />
   </div>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-  </div>
