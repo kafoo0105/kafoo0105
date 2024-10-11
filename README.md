@@ -1,12 +1,9 @@
 <div style="width: 854px; text-align: center;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kafoo0105" />
   <img src="https://github-readme-stats.vercel.app/api?username=kafoo0105" />
 
   <hr>
-
-  <h2>My Git Animals!</h2>
 
   <div style="width: 100%; display: flex;">
     <img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="50%" height="120" />
