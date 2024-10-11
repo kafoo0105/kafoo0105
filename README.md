@@ -1,6 +1,8 @@
 
 <h2 align="center">Welcome to Kim GeonHee's Github</h2>
 
+<br><br>
+
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
 
@@ -35,8 +37,8 @@
 <h3 align="center">😎 About Me</h3>
 <div align="center">
 
-<a href="mailto:ohhs1010@gmail.com"><img
-    src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=ohhs1010@gmail.com" /></a>
+<a href="mailto:kafoo0105@gmail.com"><img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=kafoo0105@gmail.com" /></a>
 <a href="https://velog.io/@kafoo0105/posts"><img
     src="https://img.shields.io/badge/Velog-EA4365?style=flat-square&logo=Velog&logoColor=white&link=(https://velog.io/@kafoo0105/posts)" /></a>
 <a href="http://platinum-beam-072.notion.site"><img
@@ -44,7 +46,7 @@
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
     
@@ -52,6 +54,8 @@
 
 </div>
 
-<img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="100%" height="120" />
+<br><br>
+
+<img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="100%" height="150" />
 
 
