@@ -39,8 +39,6 @@
 
   </div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=kafoo0105" />
-
   <hr>
 
   <div style="width: 100%; display: flex;">
