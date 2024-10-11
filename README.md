@@ -56,6 +56,6 @@
 
 <br><br>
 
-<img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="100%" height="150" />
+<img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="1000" height="150" />
 
 
