@@ -16,6 +16,8 @@
 
 </div>
 
+<br>
+
 <h3 align="center">🕹️ Tools</h3>
 <div align="center">
 
@@ -27,6 +29,8 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 </div>
+
+<br>
 
 <h3 align="center">😎 About Me</h3>
 <div align="center">
@@ -40,7 +44,13 @@
 
 </div>
 
-<hr>
+<br>
+
+<div align="center">
+    
+![Kim GeonHee's GitHub status](https://github-readme-stats.vercel.app/api?username=kafoo0105&hide=contribs,prs&show_icons=true&theme=graywhite)
+
+</div>
 
 <img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="100%" height="120" />
 
