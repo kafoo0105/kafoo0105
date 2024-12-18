@@ -56,13 +56,21 @@
 
 <br><br>
 
-<img src="https://render.gitanimals.org/lines/kafoo0105?pet-id=632092787304123293" width="1000" height="150" />
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/kafoo0105?pet-id=654904966268974588"
+    width="1000"
+    height="120"
+  />
+</a>
+  
 
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/kafoo0105?pet-id=657025457570046742"
     width="1000"
-    height="150"
+    height="120"
   />
 </a>
   
