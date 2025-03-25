@@ -1,22 +1,5 @@
+# Kim-Geonhee 입니다.
 
-<h2>Welcome to Kim GeonHee's Github</h2>
-<hr>
-
-<h3>Skills</h3>
-<hr>
-<div>
-
- ###  Front-End 
- - `React` <br>
- - `Next` <br>
- - `Html, CSS, JavaScript` <br> 
-
-</div>
-
-<br>
-<hr>
-<h3>More Info</h3>
-<div>
 
 <a href="mailto:kafoo0105@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=kafoo0105@gmail.com" /></a>
@@ -25,9 +8,16 @@
 <a href="https://platinum-beam-072.notion.site/1157467b564580d9bdb5d522fd9be5d3"><img
     src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" /></a>
 
+## Skills
+
+- Front-End : `React` `Next` `JavaScript` `TypeScript` `Html, CSS`
+
+
+
+
 </div>
 
-<br><br>
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
