@@ -1,11 +1,10 @@
 
 <h2>Welcome to Kim GeonHee's Github</h2>
 <hr>
-<br><br>
 
-<h3>Tech Stack</h3>
+<h3>Skills</h3>
+<hr>
 <div>
-
 
  ###  Front-End 
  - `React` <br>
