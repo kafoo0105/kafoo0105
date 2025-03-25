@@ -1,4 +1,4 @@
-# Kim-Geonhee 입니다.
+# Kim-Geonhee
 
 
 ## Contact
