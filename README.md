@@ -1,10 +1,10 @@
 
-<h2 align="center">Welcome to Kim GeonHee's Github</h2>
+<h2>Welcome to Kim GeonHee's Github</h2>
 
 <br><br>
 
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
+<h3>🛠️ Tech Stack</h3>
+<div>
 
 ## 📚 Tech Stack 📚
 
@@ -17,8 +17,8 @@
 
 <br>
 
-<h3 align="center">More Info</h3>
-<div align="center">
+<h3>More Info</h3>
+<div>
 
 <a href="mailto:kafoo0105@gmail.com"><img
     src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=kafoo0105@gmail.com" /></a>
@@ -30,15 +30,6 @@
 </div>
 
 <br><br>
-
-<div align="center">
-    
-![Kim GeonHee's GitHub status](https://github-readme-stats.vercel.app/api?username=kafoo0105&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-</div>
-
-<br><br>
-
 
 <a href="https://github.com/devxb/gitanimals">
   <img
