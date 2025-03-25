@@ -66,7 +66,7 @@
 <br>
 <br>
 
-## My gitanimals
+## My Git Animals
 
 <a href="https://github.com/devxb/gitanimals">
   <img
